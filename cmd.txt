@@ -1,0 +1,16 @@
+------------This are all commands to run this app--------------
+
+what is your name 
+hello 
+how are you 
+thanku
+thank
+good morning/afternoon/evening/night
+time
+shutdown
+play music
+youtube
+google
+linkedin
+weather
+chatgpt
