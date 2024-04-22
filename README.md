@@ -5,6 +5,10 @@ Welcome to the AI Desktop Assistant project! This is a simple yet powerful assis
 you can ask it to perform various tasks such as checking the weather, playing music, or searching the web. Need to greet it? Just say "hello." Want to know the time? Ask for "time."
 It's that simple!
 
+## Screenshort 📸
+![Screenshot 2024-01-24 154003](https://github.com/Varunyadavgithub/AI-Desktop-Assistant-/assets/134674472/f313eb45-0b88-41aa-8183-ecda93df9466)
+
+
 ## Features
 - **Voice Recognition**: Speak your commands naturally, and the assistant will understand!
 - **Text-to-Speech**: Receive responses audibly, making interaction seamless.
